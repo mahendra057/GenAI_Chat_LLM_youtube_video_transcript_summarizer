@@ -1,1 +1,1 @@
-# GenAI_Chat_LLM_youtube_video_transcript_summarizer
+# Youtube_video_Transcript_to_to-Detailed-Notes-Converter
